@@ -1,0 +1,12 @@
+pypdf
+
+chromadb
+
+google-cloud-aiplatform
+vertexai
+
+langchain-community
+langchain-google-vertexai
+langchain-core
+
+google-auth-oauthlib

@@ -1,0 +1,84 @@
+# RAG Bootcamp Environment Variables
+# Copy this file to .env and fill in your actual values
+# DO NOT commit .env to git (it's in .gitignore)
+
+# ============================================================================
+# Google Cloud Platform
+# ============================================================================
+
+# Your GCP Project ID (required)
+# Find it at: https://console.cloud.google.com/
+GCP_PROJECT_ID=your-project-id-here
+
+# GCP Region (default: us-central1)
+GCP_REGION=us-central1
+
+# Path to service account JSON key (if using service account authentication)
+# Leave commented if using gcloud CLI authentication
+# GOOGLE_APPLICATION_CREDENTIALS=/path/to/service-account-key.json
+
+# ============================================================================
+# LangSmith (Monitoring & Tracing)
+# ============================================================================
+
+# LangSmith API Key (required)
+# Get it from: https://smith.langchain.com/ > Settings > API Keys
+LANGSMITH_API_KEY=lsv2_pt_your_key_here
+
+# LangSmith Project Name
+LANGSMITH_PROJECT=toyota-rag-assistant
+
+# Enable tracing (set to 'true' to enable)
+LANGSMITH_TRACING_V2=true
+
+# LangSmith endpoint (usually don't need to change)
+# LANGSMITH_ENDPOINT=https://api.smith.langchain.com
+
+# ============================================================================
+# Pinecone (Vector Database - Used in Week 10)
+# ============================================================================
+
+# Pinecone API Key (get from: https://www.pinecone.io/)
+# Not needed until Week 10
+# PINECONE_API_KEY=your-pinecone-key-here
+
+# Pinecone Environment (e.g., us-east1-gcp)
+# PINECONE_ENVIRONMENT=your-environment-here
+
+# ============================================================================
+# OpenAI (Optional - for comparison in Week 3)
+# ============================================================================
+
+# OpenAI API Key (optional, for embedding model comparison)
+# Get it from: https://platform.openai.com/api-keys
+# OPENAI_API_KEY=sk-your-key-here
+
+# ============================================================================
+# Application Settings (Week 9+)
+# ============================================================================
+
+# API settings for FastAPI backend
+# API_HOST=0.0.0.0
+# API_PORT=8000
+
+# Redis for caching (Week 9)
+# REDIS_HOST=localhost
+# REDIS_PORT=6379
+
+# JWT Secret for authentication (Week 9)
+# Generate with: python -c "import secrets; print(secrets.token_urlsafe(32))"
+# JWT_SECRET=your-secret-key-here
+
+# ============================================================================
+# Development Settings
+# ============================================================================
+
+# Environment mode
+ENVIRONMENT=development
+
+# Debug mode (set to 'false' in production)
+DEBUG=true
+
+# Log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+LOG_LEVEL=INFO
+

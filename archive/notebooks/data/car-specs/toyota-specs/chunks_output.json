@@ -1,0 +1,969 @@
+[
+  {
+    "chunk_id": "toyota_car_overview_000",
+    "content": "12/29/24, 8:56\u202fPMIntroduction _to_Toyota_Car_Sales.md\nPage 1 of 2http://localhost:61787/6f397226-2ee6-4d66-a804-0c91359160f1/\nrag/Introduction_to_Toyota_Car_Sales.md\nIntroduction to Toyota Car Sales\nToyota has long been a leader in the automotive industry, known for its reliability, innovation,\nand commitment to sustainability. With a diverse lineup that includes sedans, SUVs, trucks,\nhybrids, and electric vehicles, Toyota caters to a wide range of customer needs.",
+    "metadata": {
+      "model": "Toyota Car",
+      "section": "Overview",
+      "topics": [
+        "hybrid"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Introduction_to_Toyota_Car_Sales.pdf",
+      "chunk_sequence": 0,
+      "word_count": 55
+    },
+    "token_count": 55
+  },
+  {
+    "chunk_id": "toyota_car_key_aspects_of_toyota's_brand_001",
+    "content": "Key Aspects of Toyota's Brand\n1. Reliability\nToyota vehicles are renowned for their durability and long-lasting performance. This\nmakes them a top choice for families, professionals, and adventure-seekers alike.\n2. Sustainability\nToyota is a pioneer in hybrid technology, introducing the Prius as the world\u2019s \ufb01rst mass-\nproduced hybrid car. With advancements like the Prius Prime and the all-electric bZ4X,\nToyota continues to lead the way in eco-friendly transportation.\n3. Innovation\nToyota is committed to incorporating cutting-edge technology into its vehicles, from\nadvanced safety systems (Toyota Safety Sense) to modern infotainment features.\n4. Diverse Lineup\nWhether customers are looking for an affordable sedan, a rugged truck, or an eco-friendly\nhybrid, Toyota has a model that \ufb01ts their needs.\n5. Toyota Care\nThis program offers complimentary maintenance and roadside assistance, ensuring peace\nof mind for customers after their purchase.\nWhy Toyota?\nToyota\u2019s reputation and diverse offerings make it a strong contender in any vehicle category,\nsimplifying the process for salespeople to connect with and satisfy customer needs.12/29/24, 8:56\u202fPMIntroduction _to_Toyota_Car_Sales.md\nPage 2 of 2http://localhost:61787/6f397226-2ee6-4d66-a804-0c91359160f1/\nThis document serves as the foundation for understanding Toyota\u2019s value proposition and how\nto communicate it effectively to customers.",
+    "metadata": {
+      "model": "Toyota Car",
+      "section": "Key Aspects of Toyota's Brand",
+      "topics": [
+        "safety",
+        "hybrid",
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Introduction_to_Toyota_Car_Sales.pdf",
+      "chunk_sequence": 1,
+      "word_count": 191
+    },
+    "token_count": 191
+  },
+  {
+    "chunk_id": "toyota_camry_overview_001",
+    "content": "Overview\nThe Toyota Camry is a premium midsize sedan renowned for its reliability, spacious interiors, and smooth performance. It caters to\nprofessionals, small families, and those seeking a balance of luxury and ef\ufb01ciency, with hybrid options available for eco-conscious buyers.",
+    "metadata": {
+      "model": "Toyota Camry",
+      "section": "Overview",
+      "topics": [
+        "hybrid"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Camry_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 40
+    },
+    "token_count": 40
+  },
+  {
+    "chunk_id": "toyota_camry_engine_options_002",
+    "content": "Engine Options\n2.5L 4-Cylinder Gasoline Engine\nPower Output: 203 HP\nTransmission: 8-speed automatic\nKey Feature: Ef\ufb01cient and re\ufb01ned performance for everyday driving\n3.5L V6 Gasoline Engine (Optional)\nPower Output: 301 HP\nTransmission: 8-speed automatic\nKey Feature: Delivers a sporty and dynamic driving experience\nHybrid Powertrain\nPower Output: 208 HP (combined)\nTransmission: Electronically Controlled CVT (eCVT)\nKey Feature: Exceptional fuel ef\ufb01ciency with reduced emissions\nKey Features\nSafety\nToyota Safety Sense (TSS) 2.5+, which includes:\nPre-Collision System with Pedestrian Detection\nLane Departure Alert with Steering Assist\nAdaptive Cruise Control\nRoad Sign Assist and Lane Tracing Assist",
+    "metadata": {
+      "model": "Toyota Camry",
+      "section": "Engine Options",
+      "topics": [
+        "engine",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "203 HP",
+        "301 HP",
+        "208 HP",
+        "2.5L",
+        "3.5L",
+        "8-speed",
+        "8-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Camry_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 94
+    },
+    "token_count": 94
+  },
+  {
+    "chunk_id": "toyota_camry_comfort_and_technology_003",
+    "content": "Comfort and Technology\n7-inch or optional 9-inch touchscreen infotainment system\nApple CarPlay, Android Auto, and Amazon Alexa compatibility\nOptional panoramic sunroof and leather-trimmed seats\nHeads-up display and wireless charging",
+    "metadata": {
+      "model": "Toyota Camry",
+      "section": "Comfort and Technology",
+      "topics": [
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Camry_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 29
+    },
+    "token_count": 29
+  },
+  {
+    "chunk_id": "toyota_camry_design_004",
+    "content": "Design\nSleek, aerodynamic styling with LED headlights\nSporty trims like SE and XSE with an available two-tone roof\nFuel Ef\ufb01ciency\nGasoline Engine: ~28 MPG (city) / ~39 MPG (highway)\nHybrid Powertrain: ~51 MPG (city) / ~53 MPG (highway)\nCamry\u2019s hybrid option stands out for its fuel economy in the midsize sedan segment.\nPricing\nBase Model (LE): Starting at $26,000\nMid-Level Trim (SE): Starting at $28,000\nPremium Trim (XSE V6): Starting at $36,000\nHybrid Variants: Starting at $29,000\nIdeal Customer\nProfessionals: Modern interiors and advanced tech for a sophisticated experience\nEco-Conscious Buyers: Hybrid models with outstanding fuel ef\ufb01ciency\nSmall Families: Ample legroom, safety features, and reliability for daily use",
+    "metadata": {
+      "model": "Toyota Camry",
+      "section": "Design",
+      "topics": [
+        "hybrid",
+        "safety",
+        "engine",
+        "fuel_economy"
+      ],
+      "specs_mentioned": [
+        "28 MPG",
+        "39 MPG",
+        "51 MPG",
+        "53 MPG",
+        "$26,000",
+        "$28,000",
+        "$36,000",
+        "$29,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Camry_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 108
+    },
+    "token_count": 108
+  },
+  {
+    "chunk_id": "toyota_camry_competitor_comparison_005",
+    "content": "Competitor Comparison\nToyota Camry vs. Honda Accord\nCamry offers a V6 engine option for performance enthusiasts, while Accord focuses on turbocharged engines\nCamry hybrid models provide better fuel ef\ufb01ciency\nToyota Camry vs. Nissan Altima\nCamry offers superior safety features and a sportier design\nAltima boasts optional AWD, which is unavailable in Camry",
+    "metadata": {
+      "model": "Toyota Camry",
+      "section": "Competitor Comparison",
+      "topics": [
+        "hybrid",
+        "safety",
+        "engine"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Camry_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 52
+    },
+    "token_count": 52
+  },
+  {
+    "chunk_id": "toyota_camry_sales_strategies_006",
+    "content": "Sales Strategies\nEmphasize Hybrid Ef\ufb01ciency: Perfect for buyers looking to save on fuel costs\nHighlight Safety Features: A key selling point for families and professionals\nLeverage Test Drives: Showcase the smooth ride and premium interiors\nFAQs\nDoes the Toyota Camry come with AWD?\nNo, the Camry is available in FWD (Front-Wheel Drive) only\nWhat is the warranty for the Toyota Camry?\n3 years/36,000 miles basic warranty and 5 years/60,000 miles powertrain warranty\nQuick Reference Cheat Sheet\nFeature Gasoline Models Hybrid Models\nEngine Output (HP) 203 (2.5L), 301 (V6) 208 (combined)\nTransmission 8-speed automatic eCVT\nFuel Ef\ufb01ciency (MPG) 28/39 51/53\nStarting Price (USD) $26,000 $29,000",
+    "metadata": {
+      "model": "Toyota Camry",
+      "section": "Sales Strategies",
+      "topics": [
+        "engine",
+        "fuel_economy",
+        "warranty",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "$26,000",
+        "$29,000",
+        "2.5L",
+        "8-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Camry_Specifications.pdf",
+      "chunk_sequence": 6,
+      "word_count": 104
+    },
+    "token_count": 104
+  },
+  {
+    "chunk_id": "toyota_corolla_overview_001",
+    "content": "Overview\nThe Toyota Corolla is one of the best-selling sedans worldwide, known for its affordability, reliability, and fuel ef\ufb01ciency. It\u2019s a perfect \ufb01t\nfor \ufb01rst-time buyers, professionals seeking a dependable daily driver, and small families.",
+    "metadata": {
+      "model": "Toyota Corolla",
+      "section": "Overview",
+      "topics": [],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Corolla_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 35
+    },
+    "token_count": 35
+  },
+  {
+    "chunk_id": "toyota_corolla_engine_options_002",
+    "content": "Engine Options\n1.8L 4-Cylinder Gasoline Engine\nPower Output: 139 HP\nTransmission: Continuously Variable Transmission (CVT)\nKey Feature: Smooth and ef\ufb01cient performance for urban driving\nHybrid Option\nPower Output: 121 HP (combined)\nTransmission: Electronically Controlled CVT (eCVT)\nKey Feature: Exceptional fuel economy and reduced emissions\nKey Features\nSafety\nEquipped with Toyota Safety Sense (TSS) 2.0, which includes:\nPre-Collision System with Pedestrian Detection\nLane Departure Alert with Steering Assist\nAutomatic High Beams\nFull-Speed Dynamic Radar Cruise Control",
+    "metadata": {
+      "model": "Toyota Corolla",
+      "section": "Engine Options",
+      "topics": [
+        "engine",
+        "fuel_economy",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "139 HP",
+        "121 HP",
+        "1.8L"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Corolla_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 75
+    },
+    "token_count": 75
+  },
+  {
+    "chunk_id": "toyota_corolla_comfort_and_technology_003",
+    "content": "Comfort and Technology\n7-inch or 8-inch touchscreen infotainment system\nApple CarPlay and Android Auto compatibility\nOptional premium JBL sound system\nDual-zone automatic climate control",
+    "metadata": {
+      "model": "Toyota Corolla",
+      "section": "Comfort and Technology",
+      "topics": [
+        "transmission",
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Corolla_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 24
+    },
+    "token_count": 24
+  },
+  {
+    "chunk_id": "toyota_corolla_design_004",
+    "content": "Design\nSleek, aerodynamic body style\nLED headlights and taillights\nSporty trims like SE and XSE\nFuel Ef\ufb01ciency\nGasoline Engine: 30 MPG (city) / 38 MPG (highway)\nHybrid Engine: 53 MPG (city) / 52 MPG (highway)\nCorolla\u2019s hybrid variant offers some of the best fuel ef\ufb01ciency in its class.\nPricing\nBase Model (L): Starting at $20,000\nMid-Level Trim (LE): Starting at $22,000\nPremium Trim (XSE): Starting at $27,000\nIdeal Customer\nFirst-Time Buyers: Affordable pricing and easy \ufb01nancing options\nEco-Conscious Drivers: The hybrid option minimizes carbon footprint\nSmall Families: Ample legroom and safety features make it a great choice",
+    "metadata": {
+      "model": "Toyota Corolla",
+      "section": "Design",
+      "topics": [
+        "hybrid",
+        "safety",
+        "engine",
+        "fuel_economy"
+      ],
+      "specs_mentioned": [
+        "30 MPG",
+        "38 MPG",
+        "53 MPG",
+        "52 MPG",
+        "$20,000",
+        "$22,000",
+        "$27,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Corolla_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 97
+    },
+    "token_count": 97
+  },
+  {
+    "chunk_id": "toyota_corolla_competitor_comparison_005",
+    "content": "Competitor Comparison\nToyota Corolla vs. Honda Civic\nCorolla offers better base pricing and hybrid ef\ufb01ciency.\nCivic provides a slightly more powerful engine at higher trims.\nToyota Corolla vs. Hyundai Elantra\nCorolla is renowned for long-term reliability and resale value.\nElantra\u2019s tech features are competitive but fall short on hybrid options.",
+    "metadata": {
+      "model": "Toyota Corolla",
+      "section": "Competitor Comparison",
+      "topics": [
+        "hybrid",
+        "engine"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Corolla_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 50
+    },
+    "token_count": 50
+  },
+  {
+    "chunk_id": "toyota_corolla_sales_strategies_006",
+    "content": "Sales Strategies\nHighlight Toyota Safety Sense (TSS): A major selling point for families.\nEmphasize Fuel Ef\ufb01ciency: Especially for hybrid buyers.\nOffer Test Drives: Showcase smooth handling and modern interiors.\nFAQs\nWhat is the warranty for Toyota Corolla?\n3 years/36,000 miles basic warranty and 5 years/60,000 miles powertrain warranty.\nDoes the Corolla come with AWD?\nNo, the Corolla is available in FWD (Front-Wheel Drive) only.\nQuick Reference Cheat Sheet\nFeature Gasoline Model Hybrid Model\nEngine Output (HP) 139 121 (combined)\nTransmission CVT eCVT\nFuel Ef\ufb01ciency (MPG) 30/38 53/52\nStarting Price (USD) $20,000 $23,000",
+    "metadata": {
+      "model": "Toyota Corolla",
+      "section": "Sales Strategies",
+      "topics": [
+        "engine",
+        "fuel_economy",
+        "warranty",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "$20,000",
+        "$23,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Corolla_Specifications.pdf",
+      "chunk_sequence": 6,
+      "word_count": 92
+    },
+    "token_count": 92
+  },
+  {
+    "chunk_id": "toyota_highlander_overview_001",
+    "content": "Overview\nThe Toyota Highlander is a spacious and feature-rich midsize SUV , designed to cater to large families and long-distance travelers. With\nthree rows of seating, advanced safety features, and hybrid options, it\u2019s a top choice for those seeking comfort and reliability.",
+    "metadata": {
+      "model": "Toyota Highlander",
+      "section": "Overview",
+      "topics": [
+        "safety",
+        "capacity",
+        "hybrid"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Highlander_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 42
+    },
+    "token_count": 42
+  },
+  {
+    "chunk_id": "toyota_highlander_engine_options_002",
+    "content": "Engine Options\n3.5L V6 Gasoline Engine\nPower Output: 295 HP\nTransmission: 8-speed automatic\nKey Feature: Strong towing capability and smooth acceleration\n2.5L 4-Cylinder Hybrid Powertrain (HEV)\nPower Output: 243 HP (combined)\nTransmission: Electronically Controlled CVT (eCVT)\nKey Feature: Excellent fuel ef\ufb01ciency for a three-row SUV\nKey Features\nSafety\nToyota Safety Sense (TSS) 2.5+:\nPre-Collision System with Pedestrian Detection\nLane Departure Alert with Steering Assist\nAdaptive Cruise Control\nLane Tracing Assist",
+    "metadata": {
+      "model": "Toyota Highlander",
+      "section": "Engine Options",
+      "topics": [
+        "engine",
+        "capacity",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "295 HP",
+        "243 HP",
+        "3.5L",
+        "2.5L",
+        "8-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Highlander_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 70
+    },
+    "token_count": 70
+  },
+  {
+    "chunk_id": "toyota_highlander_comfort_and_technology_003",
+    "content": "Comfort and Technology\nAvailable 12.3-inch touchscreen infotainment system\nWireless Apple CarPlay and Android Auto compatibility\nJBL premium audio system with 11 speakers\nOptional second-row captain\u2019s chairs for added comfort",
+    "metadata": {
+      "model": "Toyota Highlander",
+      "section": "Comfort and Technology",
+      "topics": [
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Highlander_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 29
+    },
+    "token_count": 29
+  },
+  {
+    "chunk_id": "toyota_highlander_design_004",
+    "content": "Design\nSleek, aerodynamic exterior with bold grille design\nLED headlights and taillights\nPanoramic moonroof and hands-free power liftgate\nFuel Ef\ufb01ciency\nGasoline Engine: ~21 MPG (city) / ~29 MPG (highway)\nHybrid Powertrain (HEV): ~36 MPG (city) / ~35 MPG (highway)\nPricing\nBase Model (L): Starting at $37,000\nMid-Level Trim (XLE): Starting at $42,000\nPremium Trim (Platinum): Starting at $50,000\nHybrid Variants: Starting at $41,000\nIdeal Customer\nLarge Families: Spacious seating for up to 8 passengers\nEco-Conscious Drivers: Hybrid models offer exceptional fuel savings\nRoad Trip Enthusiasts: Ample cargo space and premium tech for long drives",
+    "metadata": {
+      "model": "Toyota Highlander",
+      "section": "Design",
+      "topics": [
+        "hybrid",
+        "capacity",
+        "engine",
+        "fuel_economy"
+      ],
+      "specs_mentioned": [
+        "21 MPG",
+        "29 MPG",
+        "36 MPG",
+        "35 MPG",
+        "$37,000",
+        "$42,000",
+        "$50,000",
+        "$41,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Highlander_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 94
+    },
+    "token_count": 94
+  },
+  {
+    "chunk_id": "toyota_highlander_competitor_comparison_005",
+    "content": "Competitor Comparison\nToyota Highlander vs. Honda Pilot\nHighlander offers a hybrid option, while Pilot focuses solely on gasoline engines\nHighlander\u2019s interior feels more upscale with larger tech displays\nToyota Highlander vs. Ford Explorer\nExplorer provides sportier engine options, but Highlander excels in reliability and hybrid ef\ufb01ciency",
+    "metadata": {
+      "model": "Toyota Highlander",
+      "section": "Competitor Comparison",
+      "topics": [
+        "hybrid",
+        "engine"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Highlander_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 46
+    },
+    "token_count": 46
+  },
+  {
+    "chunk_id": "toyota_highlander_sales_strategies_006",
+    "content": "Sales Strategies\nPromote Hybrid Ef\ufb01ciency: Especially appealing to eco-conscious families\nEmphasize Comfort and Safety: Ideal for family buyers prioritizing these aspects\nHighlight Tech Features: Draw attention to the large touchscreen and premium audio system\nFAQs\nWhat is the towing capacity of the Toyota Highlander?\nGasoline models can tow up to 5,000 lbs, while hybrid models tow up to 3,500 lbs\nDoes the Toyota Highlander have AWD?\nYes, AWD is available on select trims for both gasoline and hybrid variants\nQuick Reference Cheat Sheet\nFeature Gasoline Models Hybrid Models (HEV)\nEngine Output (HP) 295 243 (combined)\nTransmission 8-speed automatic eCVT\nFuel Ef\ufb01ciency (MPG) 21/29 36/35\nSeating Capacity 7-8 passengers 7-8 passengers\nStarting Price (USD) $37,000 $41,000",
+    "metadata": {
+      "model": "Toyota Highlander",
+      "section": "Sales Strategies",
+      "topics": [
+        "engine",
+        "capacity",
+        "fuel_economy",
+        "technology",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "$37,000",
+        "$41,000",
+        "8-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Highlander_Specifications.pdf",
+      "chunk_sequence": 6,
+      "word_count": 115
+    },
+    "token_count": 115
+  },
+  {
+    "chunk_id": "toyota_prius_overview_001",
+    "content": "Overview\nThe Toyota Prius is a pioneer in hybrid technology, renowned for its unmatched fuel ef\ufb01ciency and reliability. The Prius Prime takes it a\nstep further with plug-in hybrid capabilities, offering electric-only driving for shorter commutes. These models are perfect for eco-\nconscious buyers who want to reduce their carbon footprint without compromising on practicality.",
+    "metadata": {
+      "model": "Toyota Prius",
+      "section": "Overview",
+      "topics": [
+        "hybrid"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Prius_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 55
+    },
+    "token_count": 55
+  },
+  {
+    "chunk_id": "toyota_prius_engine_options_002",
+    "content": "Engine Options\nToyota Prius (Hybrid)\nEngine: 1.8L 4-Cylinder Hybrid Synergy Drive\nPower Output: 121 HP (combined)\nTransmission: Electronically Controlled CVT (eCVT)\nKey Feature: Ef\ufb01cient performance with ultra-low emissions\nToyota Prius Prime (Plug-in Hybrid)\nEngine: 1.8L 4-Cylinder Hybrid Synergy Drive with an Electric Motor\nPower Output: 121 HP (combined)\nTransmission: eCVT\nKey Feature: Up to ~42 miles of all-electric range\nKey Features\nSafety\nToyota Safety Sense (TSS) 2.0:\nPre-Collision System with Pedestrian Detection\nLane Departure Alert with Steering Assist\nFull-Speed Range Dynamic Radar Cruise Control\nRoad Sign Assist",
+    "metadata": {
+      "model": "Toyota Prius",
+      "section": "Engine Options",
+      "topics": [
+        "engine",
+        "warranty",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "121 HP",
+        "121 HP",
+        "1.8L",
+        "1.8L"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Prius_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 87
+    },
+    "token_count": 87
+  },
+  {
+    "chunk_id": "toyota_prius_comfort_and_technology_003",
+    "content": "Comfort and Technology\n7-inch or optional 11.6-inch vertical touchscreen display\nApple CarPlay, Android Auto, and Amazon Alexa compatibility\nSmart Key System with Push Button Start\nQi-compatible wireless smartphone charging",
+    "metadata": {
+      "model": "Toyota Prius",
+      "section": "Comfort and Technology",
+      "topics": [
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Prius_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 29
+    },
+    "token_count": 29
+  },
+  {
+    "chunk_id": "toyota_prius_design_004",
+    "content": "Design\nSleek aerodynamic body with LED headlights\nUnique two-tone rear spoiler for a modern touch\nOptional solar roof on the Prius Prime for supplemental battery charging\nFuel Ef\ufb01ciency\nToyota Prius (Hybrid): ~58 MPG (city) / ~53 MPG (highway)\nToyota Prius Prime (Plug-in Hybrid): ~133 MPGe (electric + hybrid) / ~42 miles all-electric range\nPricing\nToyota Prius (Hybrid):\nBase Model (LE): Starting at $28,000\nMid-Level Trim (XLE): Starting at $30,500\nPremium Trim (Limited): Starting at $34,000\nToyota Prius Prime (Plug-in Hybrid):\nBase Model (SE): Starting at $32,000\nMid-Level Trim (XSE): Starting at $35,000\nPremium Trim (XSE Premium): Starting at $39,000\nIdeal Customer\nUrban Commuters: Ideal for city driving with excellent fuel economy\nEco-Conscious Buyers: Reduce emissions and fuel costs\nTech Enthusiasts: Advanced infotainment and safety features",
+    "metadata": {
+      "model": "Toyota Prius",
+      "section": "Design",
+      "topics": [
+        "technology",
+        "fuel_economy",
+        "warranty",
+        "safety",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "58 MPG",
+        "53 MPG",
+        "133 MPG",
+        "$28,000",
+        "$30,500",
+        "$34,000",
+        "$32,000",
+        "$35,000",
+        "$39,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Prius_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 125
+    },
+    "token_count": 125
+  },
+  {
+    "chunk_id": "toyota_prius_competitor_comparison_005",
+    "content": "Competitor Comparison\nToyota Prius vs. Honda Insight\nPrius offers better cargo space and a longer history of reliability\nInsight focuses on interior luxury but lacks a plug-in hybrid variant\nToyota Prius Prime vs. Hyundai Ioniq Plug-in Hybrid\nPrius Prime offers more electric-only range and unique features like a solar roof\nIoniq provides slightly lower pricing but fewer advanced safety features",
+    "metadata": {
+      "model": "Toyota Prius",
+      "section": "Competitor Comparison",
+      "topics": [
+        "safety",
+        "capacity",
+        "hybrid"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Prius_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 60
+    },
+    "token_count": 60
+  },
+  {
+    "chunk_id": "toyota_prius_sales_strategies_006",
+    "content": "Sales Strategies\nHighlight Fuel Ef\ufb01ciency: Perfect for cost-conscious buyers\nPromote Plug-in Hybrid Capability (Prius Prime): Appeal to drivers looking for electric-only options\nLeverage Tech Features: Emphasize advanced infotainment and safety tech\nFAQs\nWhat is the charging time for the Prius Prime?\nIt takes ~2 hours on a Level 2 charger and ~5.5 hours on a standard 120V outlet\nDoes the Prius have AWD?\nYes, the Toyota Prius offers AWD-e on select trims for improved traction\nQuick Reference Cheat Sheet\nFeature Prius (Hybrid) Prius Prime (Plug-in Hybrid)\nEngine Output (HP) 121 (combined) 121 (combined)\nTransmission eCVT eCVT\nFuel Ef\ufb01ciency (MPG) 58/53 ~133 MPGe\nElectric Range (miles) N/A ~42\nStarting Price (USD) $28,000 $32,000",
+    "metadata": {
+      "model": "Toyota Prius",
+      "section": "Sales Strategies",
+      "topics": [
+        "engine",
+        "fuel_economy",
+        "technology",
+        "warranty",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "133 MPG",
+        "$28,000",
+        "$32,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Prius_Specifications.pdf",
+      "chunk_sequence": 6,
+      "word_count": 112
+    },
+    "token_count": 112
+  },
+  {
+    "chunk_id": "toyota_rav4_overview_001",
+    "content": "Overview\nThe Toyota RA V4 is one of the most popular compact SUVs, offering a perfect balance of comfort, practicality, and rugged performance.\nIt caters to families, eco-conscious drivers, and outdoor enthusiasts with its variety of engine options, including gasoline, hybrid, and\nplug-in hybrid (Prime) variants.",
+    "metadata": {
+      "model": "Toyota RAV4",
+      "section": "Overview",
+      "topics": [
+        "hybrid",
+        "engine"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_RAV4_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 46
+    },
+    "token_count": 46
+  },
+  {
+    "chunk_id": "toyota_rav4_engine_options_002",
+    "content": "Engine Options\n2.5L 4-Cylinder Gasoline Engine\nPower Output: 203 HP\nTransmission: 8-speed automatic\nKey Feature: Smooth performance for everyday driving and long road trips\nHybrid Powertrain (HEV)\nPower Output: 219 HP (combined)\nTransmission: Electronically Controlled CVT (eCVT)\nKey Feature: Outstanding fuel ef\ufb01ciency and reduced emissions\nPlug-in Hybrid (Prime)\nPower Output: 302 HP (combined)\nTransmission: eCVT\nKey Feature: Electric-only range of ~42 miles, ideal for urban commutes\nKey Features\nSafety\nToyota Safety Sense (TSS) 2.5:\nPre-Collision System with Pedestrian Detection\nLane Departure Alert with Steering Assist\nFull-Speed Range Dynamic Radar Cruise Control\nLane Tracing Assist",
+    "metadata": {
+      "model": "Toyota RAV4",
+      "section": "Engine Options",
+      "topics": [
+        "engine",
+        "warranty",
+        "safety",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "203 HP",
+        "219 HP",
+        "302 HP",
+        "2.5L",
+        "8-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_RAV4_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 94
+    },
+    "token_count": 94
+  },
+  {
+    "chunk_id": "toyota_rav4_comfort_and_technology_003",
+    "content": "Comfort and Technology\n8-inch or optional 10.5-inch touchscreen infotainment system\nWireless Apple CarPlay and Android Auto compatibility\nAvailable digital rearview mirror\nHeated and ventilated front seats",
+    "metadata": {
+      "model": "Toyota RAV4",
+      "section": "Comfort and Technology",
+      "topics": [
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_RAV4_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 26
+    },
+    "token_count": 26
+  },
+  {
+    "chunk_id": "toyota_rav4_design_004",
+    "content": "Design\nBold, aggressive styling with available two-tone exterior color options\nLED headlights and taillights\nHands-free power liftgate\nFuel Ef\ufb01ciency\nGasoline Engine: ~27 MPG (city) / ~35 MPG (highway)\nHybrid Powertrain (HEV): ~41 MPG (city) / ~38 MPG (highway)\nPlug-in Hybrid (Prime): ~94 MPGe (electric + hybrid) / ~42 miles all-electric range\nPricing\nBase Model (LE): Starting at $28,000\nMid-Level Trim (XLE): Starting at $30,000\nPremium Trim (Limited): Starting at $36,000\nRA V4 Prime (Plug-in Hybrid): Starting at $42,000\nIdeal Customer\nFamilies: Ample cargo space and top-tier safety features\nEco-Conscious Drivers: Hybrid and plug-in hybrid options for fuel savings and reduced emissions\nOutdoor Enthusiasts: AWD availability and rugged trims like Adventure and TRD Off-Road",
+    "metadata": {
+      "model": "Toyota RAV4",
+      "section": "Design",
+      "topics": [
+        "engine",
+        "capacity",
+        "fuel_economy",
+        "warranty",
+        "safety",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "27 MPG",
+        "35 MPG",
+        "41 MPG",
+        "38 MPG",
+        "94 MPG",
+        "$28,000",
+        "$30,000",
+        "$36,000",
+        "$42,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_RAV4_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 113
+    },
+    "token_count": 113
+  },
+  {
+    "chunk_id": "toyota_rav4_competitor_comparison_005",
+    "content": "Competitor Comparison\nToyota RAV4 vs. Honda CR-V\nRA V4 offers hybrid and plug-in hybrid options, while CR-V focuses on turbocharged engines\nRA V4\u2019s off-road trims cater to adventurous drivers\nToyota RAV4 vs. Mazda CX-5\nRA V4 provides better fuel ef\ufb01ciency and hybrid options\nCX-5 emphasizes luxury interiors but lacks hybrid variants",
+    "metadata": {
+      "model": "Toyota RAV4",
+      "section": "Competitor Comparison",
+      "topics": [
+        "hybrid",
+        "engine"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_RAV4_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 51
+    },
+    "token_count": 51
+  },
+  {
+    "chunk_id": "toyota_rav4_sales_strategies_006",
+    "content": "Sales Strategies\nHighlight Hybrid Ef\ufb01ciency: Showcase fuel savings and environmental bene\ufb01ts\nPromote Versatility: Emphasize spacious cargo and AWD for active lifestyles\nOffer Test Drives: Demonstrate smooth handling and premium interior features\nFAQs\nDoes the Toyota RA V4 have AWD?\nYes, AWD is available on select trims, including Adventure and TRD Off-Road\nWhat is the towing capacity of the Toyota RA V4?\nGasoline models can tow up to 1,500 lbs, while the RA V4 Prime can tow up to 2,500 lbs\nQuick Reference Cheat Sheet\nFeature Gasoline Models Hybrid Models (HEV) Plug-in Hybrid (Prime)\nEngine Output (HP) 203 219 (combined) 302 (combined)\nTransmission 8-speed automatic eCVT eCVT\nFuel Ef\ufb01ciency (MPG) 27/35 41/38 ~94 MPGe\nStarting Price (USD) $28,000 $30,000 $42,000",
+    "metadata": {
+      "model": "Toyota RAV4",
+      "section": "Sales Strategies",
+      "topics": [
+        "engine",
+        "capacity",
+        "fuel_economy",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "94 MPG",
+        "$28,000",
+        "$30,000",
+        "$42,000",
+        "8-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_RAV4_Specifications.pdf",
+      "chunk_sequence": 6,
+      "word_count": 119
+    },
+    "token_count": 119
+  },
+  {
+    "chunk_id": "toyota_tacoma_overview_001",
+    "content": "Overview\nThe Toyota Tacoma is a rugged and versatile midsize pickup truck, perfect for work, adventure, and everyday use. Known for its\ndurability and off-road capabilities, it is a favorite among outdoor enthusiasts and tradespeople.",
+    "metadata": {
+      "model": "Toyota Tacoma",
+      "section": "Overview",
+      "topics": [
+        "hybrid"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Tacoma_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 35
+    },
+    "token_count": 35
+  },
+  {
+    "chunk_id": "toyota_tacoma_engine_options_002",
+    "content": "Engine Options\n2.7L 4-Cylinder Gasoline Engine\nPower Output: 159 HP\nTransmission: 6-speed automatic\nKey Feature: Fuel-ef\ufb01cient and reliable for light-duty tasks\n3.5L V6 Gasoline Engine\nPower Output: 278 HP\nTransmission: 6-speed automatic or 6-speed manual\nKey Feature: Powerful performance for towing and off-roading\nKey Features\nSafety\nToyota Safety Sense (TSS) P:\nPre-Collision System with Pedestrian Detection\nLane Departure Alert\nDynamic Radar Cruise Control",
+    "metadata": {
+      "model": "Toyota Tacoma",
+      "section": "Engine Options",
+      "topics": [
+        "capacity",
+        "safety",
+        "performance",
+        "transmission",
+        "engine"
+      ],
+      "specs_mentioned": [
+        "159 HP",
+        "278 HP",
+        "2.7L",
+        "3.5L",
+        "6-speed",
+        "6-speed",
+        "6-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Tacoma_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 63
+    },
+    "token_count": 63
+  },
+  {
+    "chunk_id": "toyota_tacoma_comfort_and_technology_003",
+    "content": "Comfort and Technology\n7-inch or optional 8-inch touchscreen infotainment system\nApple CarPlay, Android Auto, and Amazon Alexa compatibility\nOptional wireless smartphone charging\nMulti-terrain monitor for off-road driving",
+    "metadata": {
+      "model": "Toyota Tacoma",
+      "section": "Comfort and Technology",
+      "topics": [
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Tacoma_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 27
+    },
+    "token_count": 27
+  },
+  {
+    "chunk_id": "toyota_tacoma_design_004",
+    "content": "Design\nBold front grille and muscular body\nLED headlights and available bed lighting\nComposite truck bed with integrated storage compartments\nFuel Ef\ufb01ciency\n2.7L 4-Cylinder Engine: ~20 MPG (city) / ~23 MPG (highway)\n3.5L V6 Engine: ~19 MPG (city) / ~24 MPG (highway)\nPricing\nBase Model (SR): Starting at $28,000\nMid-Level Trim (TRD Sport): Starting at $34,000\nPremium Trim (TRD Pro): Starting at $48,000\nIdeal Customer\nTradespeople: Reliable and durable for daily work tasks\nOff-Road Enthusiasts: Rugged trims like TRD Pro for extreme adventures\nLight-Duty Truck Buyers: Affordable option for towing and hauling needs",
+    "metadata": {
+      "model": "Toyota Tacoma",
+      "section": "Design",
+      "topics": [
+        "hybrid",
+        "capacity",
+        "engine",
+        "fuel_economy"
+      ],
+      "specs_mentioned": [
+        "20 MPG",
+        "23 MPG",
+        "19 MPG",
+        "24 MPG",
+        "$28,000",
+        "$34,000",
+        "$48,000",
+        "2.7L",
+        "3.5L"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Tacoma_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 93
+    },
+    "token_count": 93
+  },
+  {
+    "chunk_id": "toyota_tacoma_competitor_comparison_005",
+    "content": "Competitor Comparison\nToyota Tacoma vs. Ford Ranger\nTacoma is known for better off-road trims like TRD Pro\nRanger provides a turbocharged engine for highway performance\nToyota Tacoma vs. Chevy Colorado\nTacoma offers superior reliability and resale value\nColorado emphasizes towing capacity with diesel options",
+    "metadata": {
+      "model": "Toyota Tacoma",
+      "section": "Competitor Comparison",
+      "topics": [
+        "hybrid",
+        "capacity",
+        "engine"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_Tacoma_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 44
+    },
+    "token_count": 44
+  },
+  {
+    "chunk_id": "toyota_tacoma_sales_strategies_006",
+    "content": "Sales Strategies\nHighlight Durability: Emphasize Toyota\u2019s reputation for long-lasting trucks\nPromote Off-Road Features: Appeal to adventure-seekers with TRD trims\nLeverage Test Drives: Showcase performance and comfort on different terrains\nFAQs\nWhat is the towing capacity of the Toyota Tacoma?\nThe V6 models can tow up to 6,800 lbs, while the 4-cylinder models tow up to 3,500 lbs\nDoes the Toyota Tacoma come with AWD?\nTacoma offers 4WD on select trims for off-road capability\nQuick Reference Cheat Sheet\nFeature 4-Cylinder Engine V6 Engine\nEngine Output (HP) 159 278\nTransmission 6-speed automatic 6-speed auto/manual\nFuel Ef\ufb01ciency (MPG) 20/23 19/24\nTowing Capacity (lbs) 3,500 6,800\nStarting Price (USD) $28,000 $34,000 (TRD Sport)",
+    "metadata": {
+      "model": "Toyota Tacoma",
+      "section": "Sales Strategies",
+      "topics": [
+        "engine",
+        "capacity",
+        "fuel_economy",
+        "performance",
+        "transmission",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "$28,000",
+        "$34,000",
+        "6-speed",
+        "6-speed"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_Tacoma_Specifications.pdf",
+      "chunk_sequence": 6,
+      "word_count": 109
+    },
+    "token_count": 109
+  },
+  {
+    "chunk_id": "toyota_bz4x_overview_001",
+    "content": "Overview\nThe Toyota bZ4X is Toyota's bold step into the electric vehicle (EV) market, offering a blend of\nfuturistic design, advanced battery technology, and exceptional driving performance. Perfect for\neco-conscious drivers, it provides a practical and stylish solution for urban commutes and\nfamily needs.\nPowertrain and Performance\nElectric Motor Options:\nSingle Motor (FWD): 201 HP\nDual Motor (AWD): 214 HP\nBattery Capacity:\n71.4 kWh (FWD)\n72.8 kWh (AWD)\nCharging:\nDC Fast Charging: 80% charge in ~30 minutes with a 150 kW charger\nLevel 2 Charger: Full charge in ~9 hours\nKey Features\nSafety\nToyota Safety Sense (TSS) 3.0:12/29/24, 8:56\u202fPMToyota_bZ4X_Specifications.md\nPage 2 of 4http://localhost:61787/48c788d0-f127-4a7b-9d3c-969bd631ad1b/\nPre-Collision System with Pedestrian and Cyclist Detection\nLane Departure Alert with Steering Assist\nAdvanced Park Assistance for automated parking",
+    "metadata": {
+      "model": "Toyota bZ4X",
+      "section": "Overview",
+      "topics": [
+        "engine",
+        "capacity",
+        "safety",
+        "performance",
+        "hybrid"
+      ],
+      "specs_mentioned": [
+        "201 HP",
+        "214 HP"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_bZ4X_Specifications.pdf",
+      "chunk_sequence": 1,
+      "word_count": 123
+    },
+    "token_count": 123
+  },
+  {
+    "chunk_id": "toyota_bz4x_comfort_and_technology_002",
+    "content": "Comfort and Technology\n12.3-inch touchscreen infotainment system\nWireless Apple CarPlay and Android Auto\nDigital Key for smartphone-based vehicle access\nPremium audio system by JBL",
+    "metadata": {
+      "model": "Toyota bZ4X",
+      "section": "Comfort and Technology",
+      "topics": [
+        "technology"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_bZ4X_Specifications.pdf",
+      "chunk_sequence": 2,
+      "word_count": 24
+    },
+    "token_count": 24
+  },
+  {
+    "chunk_id": "toyota_bz4x_design_003",
+    "content": "Design\nSleek, futuristic exterior with aerodynamic elements\nLED headlights and taillights\nOptional two-tone paint and panoramic sunroof\nRange and Ef\ufb01ciency\nFWD Model: ~252 miles on a full charge\nAWD Model: ~228 miles on a full charge\nPricing\nBase Model (XLE): Starting at $42,000\nPremium Trim (Limited): Starting at $48,000\nIdeal Customer\nUrban Drivers: Ideal for city commutes with zero emissions\nTech-Savvy Buyers: Advanced tech features for a modern lifestyle\nEco-Conscious Families: Roomy interior and sustainable powertrain12/29/24, 8:56\u202fPMToyota_bZ4X_Specifications.md\nPage 3 of 4http://localhost:61787/48c788d0-f127-4a7b-9d3c-969bd631ad1b/",
+    "metadata": {
+      "model": "Toyota bZ4X",
+      "section": "Design",
+      "topics": [
+        "warranty",
+        "engine"
+      ],
+      "specs_mentioned": [
+        "$42,000",
+        "$48,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_bZ4X_Specifications.pdf",
+      "chunk_sequence": 3,
+      "word_count": 82
+    },
+    "token_count": 82
+  },
+  {
+    "chunk_id": "toyota_bz4x_competitor_comparison_004",
+    "content": "Competitor Comparison\nToyota bZ4X vs. Tesla Model Y\nbZ4X offers a lower entry price and Toyota's legendary reliability\nTesla Model Y provides a longer range and a more extensive charging network\nToyota bZ4X vs. Hyundai Ioniq 5\nbZ4X features Toyota Safety Sense 3.0 for superior driver assistance\nIoniq 5 boasts faster charging capabilities and retro-inspired design",
+    "metadata": {
+      "model": "Toyota bZ4X",
+      "section": "Competitor Comparison",
+      "topics": [
+        "safety"
+      ],
+      "specs_mentioned": [],
+      "doc_type": "specification",
+      "source_file": "Toyota_bZ4X_Specifications.pdf",
+      "chunk_sequence": 4,
+      "word_count": 56
+    },
+    "token_count": 56
+  },
+  {
+    "chunk_id": "toyota_bz4x_sales_strategies_005",
+    "content": "Sales Strategies\nPromote EV Bene\ufb01ts: Emphasize zero emissions and lower running costs\nHighlight Charging Flexibility: Showcase DC fast charging for convenience\nLeverage Toyota Reliability: Assure buyers of Toyota's trusted engineering in their \ufb01rst\nEV\nFAQs\nDoes the bZ4X qualify for federal tax credits?\nYes, the bZ4X may qualify for up to $7,500 in federal tax credits, depending on eligibility\nWhat is the warranty on the battery?\nToyota offers an 8-year/100,000-mile warranty on the bZ4X battery\nQuick Reference Cheat Sheet\nFeature FWD Model AWD Model\nMotor Output (HP) 201 214\nRange (miles) ~252 ~22812/29/24, 8:56\u202fPMToyota_bZ4X_Specifications.md\nPage 4 of 4http://localhost:61787/48c788d0-f127-4a7b-9d3c-969bd631ad1b/\nCharging Time (Fast) ~30 minutes (80%) ~30 minutes (80%)\nStarting Price (USD) $42,000 $48,000",
+    "metadata": {
+      "model": "Toyota bZ4X",
+      "section": "Sales Strategies",
+      "topics": [
+        "warranty",
+        "hybrid",
+        "performance",
+        "engine"
+      ],
+      "specs_mentioned": [
+        "$7,500",
+        "$42,000",
+        "$48,000"
+      ],
+      "doc_type": "specification",
+      "source_file": "Toyota_bZ4X_Specifications.pdf",
+      "chunk_sequence": 5,
+      "word_count": 113
+    },
+    "token_count": 113
+  }
+]

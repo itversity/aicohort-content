@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "description": "Realistic car buyer queries for testing Toyota RAG system",
+    "total_queries": 50,
+    "categories": ["specification", "feature", "comparison", "recommendation", "general"]
+  },
+  "week1_queries": [
+    {
+      "query": "What is the horsepower of the Toyota Camry?",
+      "type": "specification",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["203 HP", "301 HP", "208 HP"],
+      "difficulty": "easy"
+    },
+    {
+      "query": "What safety features does the Toyota RAV4 have?",
+      "type": "feature",
+      "expected_model": "Toyota RAV4",
+      "expected_info": ["Toyota Safety Sense", "Pre-Collision System"],
+      "difficulty": "easy"
+    },
+    {
+      "query": "Tell me about Toyota's reliability and brand reputation.",
+      "type": "general",
+      "expected_model": "Introduction",
+      "expected_info": ["reliability", "durability", "long-lasting"],
+      "difficulty": "medium"
+    },
+    {
+      "query": "What's the fuel economy of the Toyota Prius?",
+      "type": "specification",
+      "expected_model": "Toyota Prius",
+      "expected_info": ["MPG", "fuel efficiency"],
+      "difficulty": "easy"
+    },
+    {
+      "query": "Does the Toyota Highlander have third-row seating?",
+      "type": "feature",
+      "expected_model": "Toyota Highlander",
+      "expected_info": ["seating", "three rows", "8 passengers"],
+      "difficulty": "easy"
+    },
+    {
+      "query": "What technology features are in the Toyota Corolla?",
+      "type": "feature",
+      "expected_model": "Toyota Corolla",
+      "expected_info": ["touchscreen", "Apple CarPlay", "Android Auto"],
+      "difficulty": "medium"
+    },
+    {
+      "query": "How much can the Toyota Tacoma tow?",
+      "type": "specification",
+      "expected_model": "Toyota Tacoma",
+      "expected_info": ["towing capacity", "6,800 lbs"],
+      "difficulty": "easy"
+    },
+    {
+      "query": "What is the Toyota bZ4X?",
+      "type": "general",
+      "expected_model": "Toyota bZ4X",
+      "expected_info": ["electric", "EV", "SUV"],
+      "difficulty": "easy"
+    },
+    {
+      "query": "What engine options are available for the Toyota Camry?",
+      "type": "specification",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["2.5L", "V6", "hybrid"],
+      "difficulty": "medium"
+    },
+    {
+      "query": "What is Toyota Safety Sense?",
+      "type": "general",
+      "expected_model": "Multiple",
+      "expected_info": ["Pre-Collision System", "Lane Departure Alert", "Adaptive Cruise Control"],
+      "difficulty": "medium"
+    }
+  ],
+  "specification_queries": [
+    {
+      "query": "What is the horsepower of the Toyota Camry V6 engine?",
+      "type": "specification",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["301 HP"]
+    },
+    {
+      "query": "What's the fuel economy of the Camry hybrid?",
+      "type": "specification",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["51 city", "53 highway", "MPG"]
+    },
+    {
+      "query": "How much cargo space does the RAV4 have?",
+      "type": "specification",
+      "expected_model": "Toyota RAV4",
+      "expected_info": ["cargo", "cubic feet"]
+    },
+    {
+      "query": "What transmission does the Corolla use?",
+      "type": "specification",
+      "expected_model": "Toyota Corolla",
+      "expected_info": ["CVT", "automatic"]
+    },
+    {
+      "query": "What is the range of the Toyota bZ4X electric vehicle?",
+      "type": "specification",
+      "expected_model": "Toyota bZ4X",
+      "expected_info": ["range", "miles", "252 miles"]
+    },
+    {
+      "query": "How many people can the Highlander seat?",
+      "type": "specification",
+      "expected_model": "Toyota Highlander",
+      "expected_info": ["8 passengers", "seating"]
+    },
+    {
+      "query": "What's the towing capacity of the Tacoma with the V6?",
+      "type": "specification",
+      "expected_model": "Toyota Tacoma",
+      "expected_info": ["6,800", "towing"]
+    },
+    {
+      "query": "What size is the touchscreen in the Prius Prime?",
+      "type": "specification",
+      "expected_model": "Toyota Prius",
+      "expected_info": ["touchscreen", "8-inch", "12.3-inch"]
+    }
+  ],
+  "feature_queries": [
+    {
+      "query": "What safety features does the Highlander offer?",
+      "type": "feature",
+      "expected_model": "Toyota Highlander",
+      "expected_info": ["Toyota Safety Sense", "safety"]
+    },
+    {
+      "query": "Does the Camry have wireless Apple CarPlay?",
+      "type": "feature",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["Apple CarPlay", "wireless"]
+    },
+    {
+      "query": "What comfort features are in the RAV4 Limited?",
+      "type": "feature",
+      "expected_model": "Toyota RAV4",
+      "expected_info": ["leather", "heated seats", "comfort"]
+    },
+    {
+      "query": "Does the bZ4X have all-wheel drive?",
+      "type": "feature",
+      "expected_model": "Toyota bZ4X",
+      "expected_info": ["AWD", "all-wheel drive"]
+    },
+    {
+      "query": "What driver assistance features does the Corolla include?",
+      "type": "feature",
+      "expected_model": "Toyota Corolla",
+      "expected_info": ["Lane Departure", "Adaptive Cruise"]
+    },
+    {
+      "query": "Does the Tacoma have off-road capabilities?",
+      "type": "feature",
+      "expected_model": "Toyota Tacoma",
+      "expected_info": ["off-road", "TRD", "4WD"]
+    },
+    {
+      "query": "What infotainment system does the Prius use?",
+      "type": "feature",
+      "expected_model": "Toyota Prius",
+      "expected_info": ["infotainment", "touchscreen", "multimedia"]
+    }
+  ],
+  "comparison_queries": [
+    {
+      "query": "Compare the fuel economy of the Camry hybrid vs Corolla hybrid",
+      "type": "comparison",
+      "expected_model": ["Toyota Camry", "Toyota Corolla"],
+      "expected_info": ["MPG", "fuel economy", "hybrid"]
+    },
+    {
+      "query": "What's the difference between RAV4 and Highlander?",
+      "type": "comparison",
+      "expected_model": ["Toyota RAV4", "Toyota Highlander"],
+      "expected_info": ["size", "seating", "cargo"]
+    },
+    {
+      "query": "How does the Prius compare to the bZ4X in terms of efficiency?",
+      "type": "comparison",
+      "expected_model": ["Toyota Prius", "Toyota bZ4X"],
+      "expected_info": ["efficiency", "MPG", "electric", "range"]
+    },
+    {
+      "query": "Compare the Camry and Corolla sedans",
+      "type": "comparison",
+      "expected_model": ["Toyota Camry", "Toyota Corolla"],
+      "expected_info": ["sedan", "size", "features"]
+    },
+    {
+      "query": "Which has more power: Camry V6 or Tacoma V6?",
+      "type": "comparison",
+      "expected_model": ["Toyota Camry", "Toyota Tacoma"],
+      "expected_info": ["horsepower", "HP", "301", "295"]
+    },
+    {
+      "query": "What are all the hybrid options Toyota offers?",
+      "type": "comparison",
+      "expected_model": ["Toyota Camry", "Toyota Corolla", "Toyota RAV4", "Toyota Prius", "Toyota Highlander"],
+      "expected_info": ["hybrid", "electric"]
+    },
+    {
+      "query": "Compare safety features across all Toyota models",
+      "type": "comparison",
+      "expected_model": "Multiple",
+      "expected_info": ["Toyota Safety Sense", "safety features"]
+    }
+  ],
+  "recommendation_queries": [
+    {
+      "query": "What's the best Toyota for a family of 6?",
+      "type": "recommendation",
+      "expected_model": ["Toyota Highlander"],
+      "expected_info": ["seating", "family", "8 passengers"]
+    },
+    {
+      "query": "Which Toyota gets the best fuel economy?",
+      "type": "recommendation",
+      "expected_model": ["Toyota Prius"],
+      "expected_info": ["MPG", "fuel economy", "efficiency"]
+    },
+    {
+      "query": "I need a vehicle for off-road adventures. Which Toyota should I consider?",
+      "type": "recommendation",
+      "expected_model": ["Toyota Tacoma", "Toyota RAV4"],
+      "expected_info": ["off-road", "4WD", "TRD"]
+    },
+    {
+      "query": "What's the most affordable Toyota sedan?",
+      "type": "recommendation",
+      "expected_model": ["Toyota Corolla"],
+      "expected_info": ["sedan", "affordable", "starting price"]
+    },
+    {
+      "query": "I want to go fully electric. What does Toyota offer?",
+      "type": "recommendation",
+      "expected_model": ["Toyota bZ4X"],
+      "expected_info": ["electric", "EV", "bZ4X"]
+    },
+    {
+      "query": "Which Toyota is best for daily commuting?",
+      "type": "recommendation",
+      "expected_model": ["Toyota Corolla", "Toyota Camry", "Toyota Prius"],
+      "expected_info": ["fuel economy", "reliable", "commuting"]
+    }
+  ],
+  "general_queries": [
+    {
+      "query": "What makes Toyota vehicles reliable?",
+      "type": "general",
+      "expected_model": "Introduction",
+      "expected_info": ["reliability", "durability", "quality"]
+    },
+    {
+      "query": "Tell me about Toyota's hybrid technology",
+      "type": "general",
+      "expected_model": "Multiple",
+      "expected_info": ["hybrid", "Prius", "electric motor"]
+    },
+    {
+      "query": "What warranty does Toyota offer?",
+      "type": "general",
+      "expected_model": "Multiple",
+      "expected_info": ["warranty", "3 years", "36,000 miles"]
+    },
+    {
+      "query": "What is Toyota Care?",
+      "type": "general",
+      "expected_model": "Introduction",
+      "expected_info": ["maintenance", "complimentary", "roadside assistance"]
+    },
+    {
+      "query": "How does Toyota prioritize sustainability?",
+      "type": "general",
+      "expected_model": "Introduction",
+      "expected_info": ["sustainability", "hybrid", "electric", "eco-friendly"]
+    },
+    {
+      "query": "What competitors does Toyota face in the sedan market?",
+      "type": "general",
+      "expected_model": ["Toyota Camry", "Toyota Corolla"],
+      "expected_info": ["Honda Accord", "Mazda6", "Honda Civic"]
+    }
+  ]
+}
+

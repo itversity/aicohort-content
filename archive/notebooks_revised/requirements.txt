@@ -1,0 +1,64 @@
+# RAG Bootcamp - Required Dependencies
+# Python 3.10+ required
+
+# Core LangChain
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-core==0.1.10
+
+# Google Cloud / Vertex AI
+langchain-google-vertexai==0.0.6
+google-cloud-aiplatform==1.38.1
+vertexai==1.38.1
+
+# LangChain Utilities
+langgraph==0.0.20
+langsmith==0.0.77
+
+# Vector Databases
+chromadb==0.4.22
+pinecone-client==3.0.0
+
+# PDF Processing
+pypdf==3.17.4
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# Jupyter Support
+jupyter==1.0.0
+ipykernel==6.28.0
+notebook==7.0.6
+
+# Data Processing
+numpy==1.26.3
+pandas==2.1.4
+
+# HTTP & API
+requests==2.31.0
+httpx==0.26.0
+
+# FastAPI (for Week 9)
+fastapi==0.109.0
+uvicorn[standard]==0.26.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+
+# WebSocket Support
+websockets==12.0
+
+# Caching (Week 9)
+redis==5.0.1
+
+# Monitoring & Logging
+structlog==24.1.0
+
+# Testing & Evaluation
+pytest==7.4.4
+ragas==0.1.1
+
+# Utilities
+tqdm==4.66.1
+tenacity==8.2.3
+

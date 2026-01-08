@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "description": "Test queries for Week 1 RAG system validation",
+    "total_queries": 10,
+    "difficulty_levels": ["easy", "medium"],
+    "query_types": ["specification", "feature", "general"]
+  },
+  "test_queries": [
+    {
+      "id": 1,
+      "query": "What is the horsepower of the Toyota Camry?",
+      "type": "specification",
+      "difficulty": "easy",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["203 HP", "301 HP", "208 HP"],
+      "notes": "Should mention multiple engine options with different HP ratings"
+    },
+    {
+      "id": 2,
+      "query": "What safety features does the Toyota RAV4 have?",
+      "type": "feature",
+      "difficulty": "easy",
+      "expected_model": "Toyota RAV4",
+      "expected_info": ["Toyota Safety Sense", "Pre-Collision System", "Lane Departure Alert"],
+      "notes": "Should mention Toyota Safety Sense suite and specific features"
+    },
+    {
+      "id": 3,
+      "query": "Tell me about Toyota's reliability and brand reputation.",
+      "type": "general",
+      "difficulty": "medium",
+      "expected_model": "Introduction to Toyota",
+      "expected_info": ["reliability", "durability", "long-lasting"],
+      "notes": "Should retrieve from Introduction PDF and mention Toyota's core values"
+    },
+    {
+      "id": 4,
+      "query": "What's the fuel economy of the Toyota Prius?",
+      "type": "specification",
+      "difficulty": "easy",
+      "expected_model": "Toyota Prius",
+      "expected_info": ["MPG", "fuel efficiency", "hybrid"],
+      "notes": "Should provide specific MPG numbers for Prius variants"
+    },
+    {
+      "id": 5,
+      "query": "Does the Toyota Highlander have third-row seating?",
+      "type": "feature",
+      "difficulty": "easy",
+      "expected_model": "Toyota Highlander",
+      "expected_info": ["seating", "8 passengers", "three rows"],
+      "notes": "Should confirm third-row seating and passenger capacity"
+    },
+    {
+      "id": 6,
+      "query": "What technology features are in the Toyota Corolla?",
+      "type": "feature",
+      "difficulty": "medium",
+      "expected_model": "Toyota Corolla",
+      "expected_info": ["touchscreen", "Apple CarPlay", "Android Auto", "infotainment"],
+      "notes": "Should list multiple technology features from Comfort & Technology section"
+    },
+    {
+      "id": 7,
+      "query": "How much can the Toyota Tacoma tow?",
+      "type": "specification",
+      "difficulty": "easy",
+      "expected_model": "Toyota Tacoma",
+      "expected_info": ["towing capacity", "6,800", "lbs"],
+      "notes": "Should provide specific towing capacity number"
+    },
+    {
+      "id": 8,
+      "query": "What is the Toyota bZ4X?",
+      "type": "general",
+      "difficulty": "easy",
+      "expected_model": "Toyota bZ4X",
+      "expected_info": ["electric", "EV", "SUV", "battery"],
+      "notes": "Should explain that bZ4X is Toyota's electric vehicle"
+    },
+    {
+      "id": 9,
+      "query": "What engine options are available for the Toyota Camry?",
+      "type": "specification",
+      "difficulty": "medium",
+      "expected_model": "Toyota Camry",
+      "expected_info": ["2.5L", "V6", "hybrid", "3.5L"],
+      "notes": "Should list all three engine options (4-cylinder, V6, hybrid)"
+    },
+    {
+      "id": 10,
+      "query": "What is Toyota Safety Sense?",
+      "type": "general",
+      "difficulty": "medium",
+      "expected_model": "Multiple models",
+      "expected_info": ["Pre-Collision System", "Lane Departure Alert", "Adaptive Cruise Control", "safety suite"],
+      "notes": "Should explain TSS features, may retrieve from multiple documents"
+    }
+  ],
+  "validation_instructions": {
+    "correctness_criteria": [
+      "Answer contains expected information",
+      "Answer is factually accurate (matches PDF content)",
+      "Answer cites or mentions the correct model",
+      "Answer is complete (addresses all parts of the question)"
+    ],
+    "scoring": {
+      "fully_correct": "Answer contains all expected info and is accurate",
+      "partially_correct": "Answer contains some expected info but is incomplete",
+      "incorrect": "Answer is inaccurate or missing key information",
+      "no_answer": "System failed to generate an answer"
+    },
+    "success_threshold": "At least 7 out of 10 queries should be fully correct"
+  },
+  "usage_example": {
+    "python": "import json\n\nwith open('test_queries.json', 'r') as f:\n    data = json.load(f)\n\nfor query_item in data['test_queries']:\n    query = query_item['query']\n    answer, sources = ask_toyota_question(query, collection, llm)\n    print(f\"Q: {query}\")\n    print(f\"A: {answer}\")\n    print(f\"Expected: {query_item['expected_info']}\")\n    print()"
+  }
+}
+
