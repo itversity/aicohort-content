@@ -1,7 +1,21 @@
+# GCP Authentication and Services
 google-auth
 google-auth-oauthlib
 google-cloud-iam
 google-cloud-resource-manager
 google-cloud-service-usage
+
+# LangChain and Vertex AI
+langchain-google-vertexai>=1.0.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# Observability
+langsmith>=0.1.0
+
+# Web Framework
 streamlit>=1.28.0
+
+# Utilities
 python-dotenv>=1.0.0
