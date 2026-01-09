@@ -1,21 +1,25 @@
-# GCP Authentication and Services
-google-auth
-google-auth-oauthlib
-google-cloud-iam
-google-cloud-resource-manager
-google-cloud-service-usage
-
-# LangChain and Vertex AI
-langchain-google-vertexai>=1.0.0
-
-# Vector Database
-chromadb>=0.4.0
-
-# Observability
-langsmith>=0.1.0
-
-# Web Framework
+# Core Framework
 streamlit>=1.28.0
 
-# Utilities
+# LangChain Ecosystem
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-google-vertexai>=0.1.0
+langsmith>=0.1.0
+
+# Vector Database
+chromadb>=0.4.22
+
+# Google Cloud Platform
+google-cloud-aiplatform>=1.38.0
+google-auth>=2.23.0
+
+# PDF Processing
+pypdf>=3.17.0
+
+# Environment Management
 python-dotenv>=1.0.0
+
+# Additional Utilities
+typing-extensions>=4.8.0
+pydantic>=2.5.0
