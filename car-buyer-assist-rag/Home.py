@@ -153,8 +153,8 @@ with col3:
     - Source citations
     
     """)
-    if st.button("💬 Chat Now", use_container_width=True, disabled=True):
-        st.info("Coming soon: Interactive Assistant")
+    if st.button("💬 Chat Now", use_container_width=True):
+        st.switch_page("pages/3_interactive_assistant.py")
 
 with col4:
     st.markdown("### 4️⃣ Metrics")
