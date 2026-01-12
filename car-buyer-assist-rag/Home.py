@@ -13,6 +13,10 @@ import sys
 parent_dir = Path(__file__).parent
 sys.path.append(str(parent_dir))
 
+# Import utilities for dynamic stats
+from utils.document_processor import get_collection_stats
+from utils.connectivity_validators import load_environment_config
+
 # Page configuration
 st.set_page_config(
     page_title="Car Buyer Assist - Home",
@@ -57,25 +61,39 @@ with col1:
 with col2:
     st.markdown("## 📊 Quick Stats")
     
-    # Placeholder stats (will be dynamic once documents are processed)
+    # Get dynamic stats from ChromaDB
+    try:
+        config = load_environment_config()
+        stats = get_collection_stats(db_path=config['chromadb']['path'])
+        
+        docs_count = stats.get('total_documents', 0)
+        chunks_count = stats.get('total_chunks', 0)
+        models_count = len(stats.get('models_covered', []))
+        
+    except:
+        # Fallback to zeros if there's an error
+        docs_count = 0
+        chunks_count = 0
+        models_count = 0
+    
     stat_col1, stat_col2 = st.columns(2)
     
     with stat_col1:
         st.metric(
             label="Documents",
-            value="0",
+            value=docs_count,
             help="Total PDFs processed"
         )
         st.metric(
             label="Chunks",
-            value="0",
+            value=chunks_count,
             help="Text segments in vector database"
         )
     
     with stat_col2:
         st.metric(
             label="Models",
-            value="8",
+            value=models_count if models_count > 0 else "8",
             help="Toyota vehicle models covered"
         )
         st.metric(
@@ -84,7 +102,10 @@ with col2:
             help="Total questions answered"
         )
     
-    st.info("💡 **Tip**: Process documents first to see updated statistics")
+    if docs_count == 0:
+        st.info("💡 **Tip**: Process documents first to see updated statistics")
+    else:
+        st.success(f"✓ Knowledge base ready with {models_count} models!")
 
 st.markdown("---")
 
@@ -118,8 +139,8 @@ with col2:
     - Generate embeddings
     
     """)
-    if st.button("📄 Process Docs", use_container_width=True, disabled=True):
-        st.info("Coming soon: Document Processing")
+    if st.button("📄 Process Docs", use_container_width=True):
+        st.switch_page("pages/2_document_processing.py")
 
 with col3:
     st.markdown("### 3️⃣ Assistant")
