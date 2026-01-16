@@ -175,15 +175,17 @@ def process_single_pdf(
     file_path: str,
     embeddings_model: VertexAIEmbeddings,
     vectorstore: Any,
+    original_filename: Optional[str] = None,
     progress_callback: Optional[Callable[[str, float], None]] = None
 ) -> Dict[str, Any]:
     """
     Process a single PDF through the complete RAG pipeline.
     
     Args:
-        file_path: Path to PDF file
+        file_path: Path to PDF file (may be temporary)
         embeddings_model: Vertex AI embeddings model
         vectorstore: ChromaDB vectorstore (LangChain wrapper)
+        original_filename: Original filename (if different from file_path)
         progress_callback: Optional callback function(message: str, progress: float)
     
     Returns:
@@ -198,7 +200,8 @@ def process_single_pdf(
         }
     """
     start_time = datetime.now()
-    filename = Path(file_path).name
+    # Use original filename if provided, otherwise extract from path
+    filename = original_filename if original_filename else Path(file_path).name
     
     try:
         # Extract model name
@@ -328,7 +331,7 @@ def batch_process_pdfs(
                 tmp_path = tmp_file.name
             
             try:
-                # Process PDF
+                # Process PDF with original filename preserved
                 def file_progress(message, file_progress):
                     # Calculate overall progress
                     overall = (idx + file_progress) / total_files
@@ -339,6 +342,7 @@ def batch_process_pdfs(
                     file_path=tmp_path,
                     embeddings_model=embeddings,
                     vectorstore=vectorstore,
+                    original_filename=uploaded_file.name,  # Preserve original filename
                     progress_callback=file_progress
                 )
                 
