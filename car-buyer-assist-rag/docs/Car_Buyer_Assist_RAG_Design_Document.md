@@ -326,7 +326,7 @@ Display metrics and traces from LangSmith for system monitoring and debugging.
 ```
 streamlit>=1.28.0
 langchain>=0.1.0
-langchain-google-vertexai>=0.1.0
+langchain-google-genai>=4.2.0
 chromadb>=0.4.0
 langsmith>=0.1.0
 pypdf>=3.0.0

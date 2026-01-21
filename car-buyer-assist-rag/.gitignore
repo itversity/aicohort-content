@@ -1,5 +1,70 @@
-*venv
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+cbag-venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
 .env
-.DS_Store
-chroma_db/
+.env.local
+!.env.example
+
+# Credentials
 credentials/
+*.json
+!requirements.json
+
+# ChromaDB
+chroma_db/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation builds
+docs/_build/
