@@ -81,6 +81,40 @@ class DocumentProcessingConfig:
     INFO_STORING = "💾 Storing vectors in ChromaDB..."
 
 
+class RAGConfig:
+    """Configuration for RAG (Retrieval-Augmented Generation) operations."""
+    
+    # Retrieval settings
+    TOP_K_CHUNKS = 5
+    
+    # Context settings
+    MAX_HISTORY_TURNS = 5
+    
+    # LLM settings for RAG
+    TEMPERATURE = 0.3
+    MAX_OUTPUT_TOKENS = 1024
+    
+    # Collection name
+    DEFAULT_COLLECTION = "toyota_specs"
+    
+    # System prompt for RAG
+    SYSTEM_PROMPT = """You are a helpful Toyota car sales assistant. Answer questions based ONLY on the provided context from Toyota specification documents and the conversation history. 
+
+If the information is not in the context, say "I don't have that information in the available Toyota specifications." 
+
+Always cite the source document when providing answers. Use the conversation history to resolve references like "it", "that car", "the vehicle", etc. to the specific car model mentioned earlier in the conversation.
+
+Format your response clearly and professionally."""
+    
+    # Conversation starters
+    EXAMPLE_QUERIES = [
+        "What are the safety features of the Corolla?",
+        "Compare fuel efficiency between RAV4 and Highlander",
+        "What is the towing capacity of the Tacoma?",
+        "Which Toyota hybrid has the longest electric range?"
+    ]
+
+
 class UIMessages:
     """UI messages and labels."""
     
