@@ -108,11 +108,14 @@ with col1:
 
 with col2:
     st.markdown("""
-    #### 📊 Coming Soon
-    - Observability Dashboard
-    - Query Analytics
-    - Performance Metrics
+    #### 📊 4. Operations Monitor
+    View system metrics and recent activity:
+    - Document processing operations
+    - Query execution traces
+    - Performance metrics
+    - LangSmith integration
     
+    **Monitor** the system's operations and performance.
     """)
 
 st.divider()
@@ -129,6 +132,7 @@ Follow these steps to use the Car Buyer Assist RAG Application:
 1. **Connectivity Validation** - Go to the Connectivity page and test all service connections
 2. **Document Processing** - Upload and process Toyota specification PDFs on the Document Processing page
 3. **Interactive Assistant** - Start asking questions about Toyota vehicles on the Interactive Assistant page
+4. **Operations Monitor** - View system performance and trace data on the Monitor page
 
 **Example Conversation:**
 - **You:** "What are the safety features of the Corolla?"
